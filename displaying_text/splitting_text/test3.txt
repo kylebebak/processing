@@ -1,0 +1,4 @@
+some versions of text files have less
+bullshit than others,
+i only want to load the strings that appear on the page
+not all the style information
